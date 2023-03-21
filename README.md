@@ -14,6 +14,7 @@ We will schedule this pipeline to run daily. After a few months we will end up w
 
 In the monthly folder:
 'monthly50' - takes the last 50 tracks you listened to in the past month, starting with the most recent, which prints in Python
-'monthly50sql' - takes the last 50 tracks and 
+'monthly50sql' - takes the last 50 tracks and inputs the data into an SQL database
+'monthlypandas' - takes the last 50 tracks and creates visuals using pandas based on genres
 
 
